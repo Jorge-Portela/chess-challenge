@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d8ac47-b964-45b9-8ac5-8a41e47578d2" name="Changes" comment="" />
+    <list default="true" id="f7d8ac47-b964-45b9-8ac5-8a41e47578d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chessgame/chess/ChessPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chessgame/boardgame/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chessgame/boardgame/Piece.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -74,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712708129456</updated>
       <workItem from="1712712377069" duration="1543000" />
-      <workItem from="1712749939058" duration="8798000" />
+      <workItem from="1712749939058" duration="9505000" />
     </task>
     <servers />
   </component>
