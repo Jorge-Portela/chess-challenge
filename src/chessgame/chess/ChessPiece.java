@@ -18,5 +18,5 @@ public class ChessPiece extends Piece {
         return color;
     }
 
-    
+
 }
