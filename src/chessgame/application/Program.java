@@ -1,7 +1,6 @@
-package chess.application;
+package chessgame.application;
 
-import chess.boardgame.Board;
-import chess.boardgame.Position;
+import chessgame.boardgame.Board;
 
 import java.util.Locale;
 import java.util.Scanner;
