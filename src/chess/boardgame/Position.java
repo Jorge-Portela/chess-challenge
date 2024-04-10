@@ -1,4 +1,4 @@
-package chess.boardGame;
+package chess.boardgame;
 
 public class Position {
     private int row;
@@ -29,7 +29,7 @@ public class Position {
 
     @Override
     public String toString(){
-        return row + ", " + column;
+        return "row: " + row + ", column: " + column;
     }
 
 

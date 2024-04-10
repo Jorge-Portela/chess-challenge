@@ -1,6 +1,7 @@
 package chess.application;
 
-import chess.boardGame.Position;
+import chess.boardgame.Board;
+import chess.boardgame.Position;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -11,9 +12,7 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner reader = new Scanner(System.in);
 
-        Position ps1 = new Position(reader.nextInt(), reader.nextInt());
-
-        System.out.println(ps1);
+        Board board = new Board(8, 8);
 
 
         reader.close();
