@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -22,7 +23,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+<<<<<<< Updated upstream
 
+=======
+=======
+>>>>>>> Stashed changes
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -52,3 +57,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+<<<<<<< Updated upstream
+=======
+>>>>>>> 5405cc8 (Added first scope of 'Chess Challenge' mini project)
+>>>>>>> Stashed changes
