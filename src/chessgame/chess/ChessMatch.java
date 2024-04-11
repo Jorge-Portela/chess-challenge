@@ -2,6 +2,7 @@ package chessgame.chess;
 
 import chessgame.boardgame.Board;
 import chessgame.boardgame.Position;
+import chessgame.chess.pieces.King;
 import chessgame.chess.pieces.Rook;
 
 //This class define the chess game board dimension
@@ -26,5 +27,8 @@ public class ChessMatch {
 
     private void initialSetup(){
         board.placePiece(new Rook(board, Color.WHITE), new Position(2,1));
+        board.placePiece(new King(board, Color.BLACK), new Position(0,4));
+        board.placePiece(new King(board, Color.WHITE), new Position(7,4));
+
     }
 }
